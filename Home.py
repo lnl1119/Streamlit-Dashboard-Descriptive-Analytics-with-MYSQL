@@ -6,7 +6,7 @@ from numerize.numerize import numerize
 #from query import *
 import time
 
-st.set_page_config(page_title="Dashboard",page_icon="🌍",layout="wide")
+st.set_page_config(page_title="Dashboard",page_icon="🐳",layout="wide")
 st.subheader("🔔  Analytics Dashboard")
 st.markdown("##")
 
